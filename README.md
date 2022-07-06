@@ -1,3 +1,3 @@
 # Speedwagon-React-Native
 
-https://expo.dev/@dariojunior.dev/Speedwagon
+Projeto de matérias técnicas IFPI - Pedro II. Versão do SpeedWagonApp produzido em Flutter.
